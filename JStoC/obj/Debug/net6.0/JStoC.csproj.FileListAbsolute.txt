@@ -1,0 +1,17 @@
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\bin\Debug\net6.0\JStoC.exe
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\bin\Debug\net6.0\JStoC.deps.json
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\bin\Debug\net6.0\JStoC.runtimeconfig.json
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\bin\Debug\net6.0\JStoC.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\bin\Debug\net6.0\JStoC.pdb
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\obj\Debug\net6.0\JStoC.csproj.AssemblyReference.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\obj\Debug\net6.0\JStoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\obj\Debug\net6.0\JStoC.AssemblyInfoInputs.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\obj\Debug\net6.0\JStoC.AssemblyInfo.cs
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\obj\Debug\net6.0\JStoC.csproj.CoreCompileInputs.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\obj\Debug\net6.0\JStoC.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\obj\Debug\net6.0\refint\JStoC.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\obj\Debug\net6.0\JStoC.pdb
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\obj\Debug\net6.0\JStoC.genruntimeconfig.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\obj\Debug\net6.0\ref\JStoC.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\JStoC\obj\Debug\net6.0\JStoC.csproj.CopyComplete

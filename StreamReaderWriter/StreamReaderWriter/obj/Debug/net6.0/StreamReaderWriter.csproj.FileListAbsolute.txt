@@ -1,0 +1,15 @@
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\bin\Debug\net6.0\StreamReaderWriter.exe
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\bin\Debug\net6.0\StreamReaderWriter.deps.json
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\bin\Debug\net6.0\StreamReaderWriter.runtimeconfig.json
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\bin\Debug\net6.0\StreamReaderWriter.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\bin\Debug\net6.0\StreamReaderWriter.pdb
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\obj\Debug\net6.0\StreamReaderWriter.csproj.AssemblyReference.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\obj\Debug\net6.0\StreamReaderWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\obj\Debug\net6.0\StreamReaderWriter.AssemblyInfoInputs.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\obj\Debug\net6.0\StreamReaderWriter.AssemblyInfo.cs
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\obj\Debug\net6.0\StreamReaderWriter.csproj.CoreCompileInputs.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\obj\Debug\net6.0\StreamReaderWriter.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\obj\Debug\net6.0\refint\StreamReaderWriter.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\obj\Debug\net6.0\StreamReaderWriter.pdb
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\obj\Debug\net6.0\StreamReaderWriter.genruntimeconfig.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\StreamReaderWriter\StreamReaderWriter\obj\Debug\net6.0\ref\StreamReaderWriter.dll

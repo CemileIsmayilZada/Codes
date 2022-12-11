@@ -1,0 +1,17 @@
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\obj\Debug\net6.0\CToJs.csproj.AssemblyReference.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\obj\Debug\net6.0\CToJs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\obj\Debug\net6.0\CToJs.AssemblyInfoInputs.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\obj\Debug\net6.0\CToJs.AssemblyInfo.cs
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\obj\Debug\net6.0\CToJs.csproj.CoreCompileInputs.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\bin\Debug\net6.0\CToJs.exe
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\bin\Debug\net6.0\CToJs.deps.json
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\bin\Debug\net6.0\CToJs.runtimeconfig.json
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\bin\Debug\net6.0\CToJs.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\bin\Debug\net6.0\CToJs.pdb
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\obj\Debug\net6.0\CToJs.csproj.CopyComplete
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\obj\Debug\net6.0\CToJs.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\obj\Debug\net6.0\refint\CToJs.dll
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\obj\Debug\net6.0\CToJs.pdb
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\obj\Debug\net6.0\CToJs.genruntimeconfig.cache
+C:\Users\Aysel\OneDrive\İş masası\MyTasks\StreamSer\CToJs\obj\Debug\net6.0\ref\CToJs.dll
